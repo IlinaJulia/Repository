@@ -1,0 +1,11 @@
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\bin\Debug\net6.0\FactorialLibrary.deps.json
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\bin\Debug\net6.0\FactorialLibrary.dll
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\bin\Debug\net6.0\FactorialLibrary.pdb
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\FactorialLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\FactorialLibrary.AssemblyInfoInputs.cache
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\FactorialLibrary.AssemblyInfo.cs
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\FactorialLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\FactorialLibrary.dll
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\refint\FactorialLibrary.dll
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\FactorialLibrary.pdb
+C:\Users\tropi\source\repos\FactorialLibrary\FactorialLibrary\obj\Debug\net6.0\ref\FactorialLibrary.dll

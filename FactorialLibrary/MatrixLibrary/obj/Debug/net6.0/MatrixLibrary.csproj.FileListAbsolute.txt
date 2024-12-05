@@ -1,0 +1,11 @@
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\bin\Debug\net6.0\MatrixLibrary.deps.json
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\bin\Debug\net6.0\MatrixLibrary.dll
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\bin\Debug\net6.0\MatrixLibrary.pdb
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.AssemblyInfoInputs.cache
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.AssemblyInfo.cs
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.dll
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\refint\MatrixLibrary.dll
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\MatrixLibrary.pdb
+C:\Users\tropi\source\repos\FactorialLibrary\MatrixLibrary\obj\Debug\net6.0\ref\MatrixLibrary.dll
