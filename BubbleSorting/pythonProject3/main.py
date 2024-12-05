@@ -1,4 +1,4 @@
-#Сортировка пузырьком
+#Сортировка пузырьком #Изменение для Git
 def BubbleSort(arr):
     n = len(arr)
     swap_counter = 0
